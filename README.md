@@ -3,5 +3,5 @@
 *[Github][www.github.com]
 *[stackOverflow][www.stackoverflow.com]
 *[google][google.com]
-**bold** *italic*
+**bold *italic
 
